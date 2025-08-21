@@ -31,3 +31,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhY15w&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhY15w&layout=compact)
+
+**Contributions:**
+
+![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=WhY15w&theme=vue)
+
