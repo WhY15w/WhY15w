@@ -1,14 +1,13 @@
 ### Hi there, I'm HurryWang 👋
 
 <pre>
-奋斗的目标就是为了躺平，为了过上不被闹钟叫醒的日子。
-                                                -- 加油💪
+Think twice, code once!
 </pre>
 
 **About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=WhY15w.WhY15w&right_color=green" align="center" alt="visitors">
 
 
-|   赛尔号  | <https://seerinfo.yuyuqaq.cn>                                      |
+|   赛尔号信息聚合页  | <https://seerinfo.yuyuqaq.cn>                                      |
 | :------------: | :------------------------------------------------------- |
 
 
@@ -17,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![Python](https://img.shields.io/badge/Python-CCC?logo=Python)
 
 **Frameworks and Tools:**
 
