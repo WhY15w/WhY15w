@@ -4,8 +4,7 @@
 Think twice, code once!
 </pre>
 
-**About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=WhY15w.WhY15w&right_color=green" align="center" alt="visitors">
-
+**About Me:** 
 
 |   赛尔号信息聚合页  | <https://seerinfo.yuyuqaq.cn>                                      |
 | :------------: | :------------------------------------------------------- |
