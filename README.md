@@ -35,5 +35,5 @@ Think twice, code once!
 
 ![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=WhY15w&theme=vue)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
