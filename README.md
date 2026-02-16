@@ -26,10 +26,6 @@ Think twice, code once!
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=educative&logoColor=fff)
 
-**GitHub Stats:**
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WhY15w&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhY15w&layout=compact)
 
 **Contributions:**
 
