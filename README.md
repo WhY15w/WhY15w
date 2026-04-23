@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-000000?logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?logo=shadcnui&logoColor=fff" />
   <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff" />
